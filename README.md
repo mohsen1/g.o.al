@@ -18,4 +18,4 @@ This project is heavily influenced by [`goal`][goal] project.
 
 
 [goal]: https://github.com/eatnumber1/goal
-[js]: https://github.com/mohsen1/g.o.al/blob/master/solutions/javascript/mohsen1/g.o.al.js
+[js]: https://github.com/mohsen1/g.o.al/blob/master/solutions%20/JavaScript/mohsen1/g.o.al.js
